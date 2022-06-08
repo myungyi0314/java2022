@@ -4,4 +4,8 @@
 - JDK는 개발자들이 JVM과 JRE에 의해 실행되고 구동될 수 있는 자바 프로그램을 생성할 수 있게 해준다.
 
 
-vpn우회, docker, proxy, https, netstat, 포트포워딩
+vpn우회, docker, proxy, https, netstat, 포트포워딩, 
+
+
+1. annotation
+2. java 자료구조정리
