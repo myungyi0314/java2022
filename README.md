@@ -6,6 +6,11 @@
 
 vpn우회, docker, proxy, https, netstat, 포트포워딩, 
 
+- Thread란? 실행 단위
+  - 응답성
+  - 자원공유
+  - 경제적
+  - 병렬성
 
 1. annotation
 2. java 자료구조정리
