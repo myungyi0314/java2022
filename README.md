@@ -10,3 +10,5 @@ vpn우회, docker, proxy, https, netstat, 포트포워딩,
 1. annotation
 2. java 자료구조정리
 3. singleton 디자인
+4. packt.com
+5. wiki 정리, 네트워크, redis, kafka
