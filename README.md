@@ -17,3 +17,8 @@ vpn우회, docker, proxy, https, netstat, 포트포워딩,
 3. singleton 디자인
 4. packt.com
 5. wiki 정리, 네트워크, redis, kafka
+
+
+큐가 single일때
+토픽 파티션이 012 01 이럴때 
+offset 명령어 
