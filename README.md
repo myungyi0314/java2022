@@ -22,3 +22,10 @@ vpn우회, docker, proxy, https, netstat, 포트포워딩,
 큐가 single일때
 토픽 파티션이 012 01 이럴때 
 offset 명령어 
+
+# OPENCSOURCE
+- DOCKER
+- KAFKA
+- ELASTICSEARCH
+- REDIS
+- LOGOSTASH
